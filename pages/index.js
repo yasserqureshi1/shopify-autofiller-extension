@@ -37,7 +37,7 @@ function loadForm() {
 
 
   document.addEventListener("DOMContentLoaded", function() {
-    document.querySelector("form").addEventListener("submit", saveForm);
+    document.getElementById("save").addEventListener("click", saveForm);
   });
 
   document.addEventListener("DOMContentLoaded", function() {
