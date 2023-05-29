@@ -6,8 +6,9 @@ This Chrome extension was created to streamline the checkout process on Shopify 
 
 A video describing the development of this can be found [here](https://youtu.be/eunVCfTquZ8).
 
-![form](https://github.com/yasserqureshi1/shopify-autofiller-extension/assets/49324530/2d89d988-6186-49b2-ac51-a4fe6cdbbc94)
-![popup](https://github.com/yasserqureshi1/shopify-autofiller-extension/assets/49324530/b30c2603-802c-40b5-ab7e-11dd618e8c3e)
+![form](https://github.com/yasserqureshi1/shopify-autofiller-extension/assets/49324530/7fcc26da-34b1-4b6e-9ed8-bf81854168be)
+![popup](https://github.com/yasserqureshi1/shopify-autofiller-extension/assets/49324530/75a3597e-1b0b-4d07-a246-2d70fb58817a)
+
 
 ## Installation
 
